@@ -48,7 +48,7 @@ Through this analysis, I observed several interesting patterns:
 
    - **Bike Purchase Count by Age Bracket**:
    
-     ![image](https://github.com/user-attachments/assets/8b20e728-6258-45f6-91ec-b60ea2de5d53)
+   ![image](https://github.com/user-attachments/assets/8b20e728-6258-45f6-91ec-b60ea2de5d53)
 
 ### 3. **Dashboard Creation**
 
@@ -58,12 +58,12 @@ Through this analysis, I observed several interesting patterns:
 
 ## 📊 How to Use
 
-1. **Open the Excel File** and go to the **Dashboard** sheet.
+1. **Open the [Bike_Buyers_Dashboard.xlsx](https://github.com/adinramaadin/Excel_Project-2_Bike_Sales/blob/main/Bike_Buyers_Dashboard.xlsx) File** and go to the **Dashboard** sheet.
 2. **Explore Using Slicers** to view the data filtered by categories, offering an interactive way to explore the data.
 
 ## 📂 Data Source
 
-The dataset is originally from Alex The Analyst, available on [GitHub](https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Excel%20Project%20Dataset.xlsx), and also in this repository in the `data` folder for quick reference.
+The dataset is originally from Alex The Analyst, available on [GitHub](https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Excel%20Project%20Dataset.xlsx), and also in this repository in the [Data](https://github.com/adinramaadin/Excel_Project-2_Bike_Sales/tree/main/Data) folder for quick reference.
 
 ## 💡 Why This Project Matters
 
@@ -76,5 +76,6 @@ I created this project as a practice piece to solidify my understanding of data 
 
 ---
 
-Thank you for exploring this project! Whether you're an Excel enthusiast or a data analytics professional, I hope this dashboard provides a clear, engaging view of how Excel can be leveraged for insightful data analysis.
+Thank you for checking out this project! I aimed to show how Excel can be used to perform impactful data analysis and create clear, interactive dashboards. Whether you're exploring Excel for similar use cases or evaluating my work, I hope this project demonstrates a practical approach to analyzing data effectively.
+
 
