@@ -1,6 +1,6 @@
 # Bike Buyers Dashboard Project
 
-Welcome to my **Bike Buyers Dashboard Project**—an interactive Excel dashboard crafted from real data, transformed and visualized to extract meaningful insights. As my second foray into Excel project building, this one is a bit more straightforward than my previous project. However, my goal was to ensure I could revisit key concepts and continue refining my data skills.
+Welcome to my **Bike Buyers Dashboard Project**—an interactive Excel dashboard crafted from real data, transformed and visualized to extract meaningful insights. As my second foray into Excel project building, this one is a bit more straightforward than [my previous Excel project](https://github.com/adinramaadin/Excel_Project-1_data-job-market). However, my goal was to ensure I could revisit key concepts and continue refining my data skills.
 
 Through this project, I’m focused on effective data cleaning, Power Query transformations, and dashboarding techniques. From handling data transformations to building an interactive dashboard, I focused on creating a tool that’s both informative and easy to use for exploring buying patterns among different groups. Here’s a step-by-step breakdown of what I achieved:
 
