@@ -8,7 +8,7 @@ Through this project, I’m focused on effective data cleaning, Power Query tran
 
 Through this analysis, I observed several interesting patterns:
 - **Income Influence**: On average, customers who purchased a bike had a slightly higher income, with male customers in particular showing a significant difference between those who bought and those who didn’t.
-- **Distance from Store**: Proximity played a role in purchase likelihood; customers closer to the store were more likely to buy a bike.
+- **Commuting Distance**: Commuting distance influences bike purchases as shorter distances make biking more practical, affordable, and convenient.
 - **Age Group Trends**: The "Middle Age" group had the highest purchase count, suggesting they are the primary target demographic, while younger "Adolescents" and older "Seniors" had comparatively fewer purchases.
 
 ## 🎯 Project Goals and Workflow
