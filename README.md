@@ -52,7 +52,7 @@ Through this analysis, I observed several interesting patterns:
 
 ### 3. **Dashboard Creation**
 
-   To bring the insights to life, I designed an interactive **Dashboard** with slicers and connections for real-time filtering. The slicers allow users to filter by categories such as **Education, Marital Status, Number of Children, Number of car ownership** and **Region**, enabling customized views for deeper insights.
+   To bring the insights to life, I designed an interactive **Dashboard** with slicers and connections for real-time filtering. The slicers allow users to filter by categories such as **Education, Marital Status, Number of Children a Person Has, Number of Cars Owned** and **Region**, enabling customized views for deeper insights.
 
 ![image](https://github.com/user-attachments/assets/2f6ee2de-9229-44d5-9c6d-9d6252799a31)
 
