@@ -4,13 +4,6 @@ Welcome to my **Bike Buyers Dashboard Project**—an interactive Excel dashboard
 
 Through this project, I’m focused on effective data cleaning, Power Query transformations, and dashboarding techniques. From handling data transformations to building an interactive dashboard, I focused on creating a tool that’s both informative and easy to use for exploring buying patterns among different groups. Here’s a step-by-step breakdown of what I achieved:
 
-## 📈 Insights Discovered
-
-Through this analysis, I observed several interesting patterns:
-- **Income Influence**: On average, customers who purchased a bike had a slightly higher income, with male customers in particular showing a significant difference between those who bought and those who didn’t.
-- **Commuting Distance**: Commuting distance influences bike purchases as shorter distances make biking more practical, affordable, and convenient.
-- **Age Group Trends**: The "Middle Age" group had the highest purchase count, suggesting they are the primary target demographic, while younger "Adolescents" and older "Seniors" had comparatively fewer purchases.
-
 ## 🎯 Project Goals and Workflow
 
 ### 1. **Data Cleaning and Transformation in Power Query**
@@ -60,6 +53,13 @@ Through this analysis, I observed several interesting patterns:
 
 1. **Open the [Bike_Buyers_Dashboard.xlsx](https://github.com/adinramaadin/Excel_Project-2_Bike_Sales/blob/main/Bike_Buyers_Dashboard.xlsx) File** and go to the **Dashboard** sheet.
 2. **Explore Using Slicers** to view the data filtered by categories, offering an interactive way to explore the data.
+
+## 📈 Insights Discovered
+
+Through this analysis, I observed several interesting patterns:
+- **Income Influence**: On average, customers who purchased a bike had a slightly higher income, with male customers in particular showing a significant difference between those who bought and those who didn’t.
+- **Commuting Distance**: Commuting distance influences bike purchases as shorter distances make biking more practical, affordable, and convenient.
+- **Age Group Trends**: The "Middle Age" group had the highest purchase count, suggesting they are the primary target demographic, while younger "Adolescents" and older "Seniors" had comparatively fewer purchases.
 
 ## 📂 Data Source
 
